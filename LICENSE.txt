@@ -1,0 +1,47 @@
+END-USER LICENSE AGREEMENT
+
+This End-User License Agreement (the "Agreement") is made and entered into as of the date of acceptance by the end user ("User") between DECIMA LLC, an Illinois corporation having its principal place of business at 1001 S State St, Chicago, IL 60605 ("Licensor"), and the User who voluntarily chooses to use the Cyber Attack and Data Breach Monitoring Web Application (the "Software").
+
+DEFINITIONS
+1.1. "Software" means the Cyber Attack and Data Breach Monitoring Web Application developed by Licensor, including any updates, modifications, enhancements, or derivative works provided by Licensor under this Agreement.
+
+1.2. "Documentation" means any user manuals, technical manuals, and any other written or electronic materials provided by Licensor in connection with the Software.
+
+GRANT OF LICENSE
+2.1. Subject to the terms and conditions of this Agreement, Licensor hereby grants to User a non-exclusive, non-transferable, limited license to use the Software and Documentation solely for User's personal or internal business purposes.
+
+RESTRICTIONS
+3.1. User shall not: (a) modify, reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software; (b) sublicense, sell, rent, lease, distribute, or otherwise transfer the Software to any third party; (c) create any derivative works based on the Software or Documentation; or (d) use the Software for any purpose other than as expressly permitted under this Agreement.
+
+INTELLECTUAL PROPERTY
+4.1. Licensor retains all right, title, and interest in and to the Software and Documentation, including all intellectual property rights therein. User acknowledges that the Software and Documentation are protected by copyright, trademark, patent, and/or other intellectual property laws and international treaties.
+
+TERM AND TERMINATION
+5.1. This Agreement shall commence on the date of acceptance by the User and continue until terminated by either party upon thirty (30) days written notice to the other party.
+
+5.2. Upon termination of this Agreement, User shall immediately cease using the Software and Documentation and shall promptly return or destroy all copies thereof in User's possession or control.
+
+WARRANTIES AND DISCLAIMERS
+6.1. Licensor warrants that it has the right to grant the license set forth in this Agreement.
+
+6.2. THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS" AND LICENSOR DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT.
+
+LIMITATION OF LIABILITY
+7.1. IN NO EVENT SHALL LICENSOR BE LIABLE TO USER FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE USE OF THE SOFTWARE OR DOCUMENTATION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7.2. LICENSOR'S TOTAL LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE AMOUNT PAID BY USER TO LICENSOR FOR THE SOFTWARE LICENSE, IF ANY.
+
+MISCELLANEOUS
+8.1. This Agreement shall be governed by and construed in accordance with the laws of the State of Illinois, without regard to its conflicts of law principles.
+
+8.2. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous understandings, representations, negotiations, and communications, whether written or oral.
+
+8.3. This Agreement may be amended only by a written document signed by both parties. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+8.4. Neither party may assign this Agreement or any of its rights or obligations hereunder without the prior written consent of the other party, except that Licensor may assign this Agreement to a successor in connection with a merger, acquisition, or sale of all or substantially all of its assets.
+
+8.5. Any notices required or permitted under this Agreement shall be in writing and shall be deemed given when delivered personally, sent by email with confirmation of receipt, or three (3) business days after being sent by registered or certified mail, postage prepaid, return receipt requested, to the addresses of the parties set forth at the beginning of this Agreement or to such other address as either party may designate by notice to the other party.
+
+8.6. The failure of either party to enforce any provision of this Agreement shall not be deemed a waiver of that provision or any other provision.
+
+BY CLICKING "I ACCEPT" OR OTHERWISE USING THE SOFTWARE, USER ACKNOWLEDGES THAT USER HAS READ, UNDERSTOOD, AND AGREED TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF USER DOES NOT AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT, USER MUST NOT USE THE SOFTWARE.
